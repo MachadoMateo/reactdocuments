@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60rem;
+  margin: 0;
+}
+
+button{
+  padding: 40px;
+  margin-top: 30px;
+  margin: 15px;
+  background-color: rgb(14, 3, 23);
+  justify-content: center;
+  width: 20%;
+  margin-left: 5%;
+  color:beige;
+  
+}
+
+.trafficlights{
+  width: 100px; /* ajusta el ancho según tus necesidades */
+  height: 100px; /* ajusta la altura según tus necesidades */
+  border-radius: 50%; /* esto hace que el borde sea redondeado, creando un círculo */
+  background-color: #3498db; /* color de fondo, puedes cambiarlo según tus preferencias */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+  margin-left: 30%;
+  
+}
